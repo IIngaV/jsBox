@@ -1,0 +1,16 @@
+body{
+	background-image: url(css/back.jpg);
+	
+}
+.row{
+	padding-left:100px;
+}
+.title{
+	padding-left:120px;
+	font-family: Courier;
+	font-style: oblique;
+	font-weight: bold;
+	text-shadow: white 2 2 2px;
+	text-shadow: grey 1px 1px 0, grey -1px -1px 0, 
+                 grey -1px 1px 0, grey 1px -1px 0;
+}
